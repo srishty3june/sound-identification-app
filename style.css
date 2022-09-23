@@ -1,0 +1,42 @@
+body {
+
+    font-family: 'Passions Conflict', cursive;
+    background-color: rgb(250, 159, 245);
+    color: rgb(107, 223, 223);
+}
+
+.header_div {
+   
+    background-color: rgb(216, 183, 248);
+    color: rgb(155, 155, 241);
+}
+
+.header_div p {
+
+    color: rgb(146, 241, 151);
+    letter-spacing: 2px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.main_div button {
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+.copy_right_footer {
+
+    position: fixed;
+    color: rgb(53, 42, 42);
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(250, 248, 248);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(250, 109, 133);
+}
